@@ -8,5 +8,6 @@ void helloWorldFunction(void){
 int main()
 {
     helloWorldFunction();
+    printf("OI");
     return 0;
 }
